@@ -6,22 +6,22 @@
     <title>Pedido</title>
     <style>
         body {
-            background-color: #86bc8f;
+            background-color: #d587b6;
             text-align: center;
             font-family: Arial, sans-serif;
         }
- 
+
         .container {
             padding: 20px;
         }
 
         h1 {
-            color: hsl(236, 100%, 60%);
+            color: hsl(329, 100%, 60%);
         }
 
         .heart {
             font-size: 50px;
-            color: hsl(239, 100%, 60%);
+            color: hsl(308, 47%, 58%);
             cursor: pointer;
         }
 
